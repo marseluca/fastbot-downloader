@@ -10,5 +10,5 @@
 </ul>
 
 <h2>How it works</h2>
-This programs allows you to send images or PDF files to your Telegram bot. The bot will then instantly download those files on your desktop, without any further effort, with the whole process taking less than 5 seconds. All you have to do is keep the program running while sending the files.
+This program allows you to send images or PDF files to your Telegram bot. The bot will then instantly download those files on your desktop, without any further effort, with the whole process taking less than 5 seconds. All you have to do is keep the program running while sending the files.
 
