@@ -22,7 +22,7 @@ if read_token=="":
     print("Bot token missing!\n\nInstructions:")
     print("\n1. Search @BotFather on Telegram and start the bot")
     print("2. Send the command \\newbot to the bot")
-    print("3. The bot will provide you with a token: copy and paste it in a 'token.txt' file in the same folder of this program")
+    print("3. The bot will provide you with a token: copy and paste it here")
     print("Now all you have to do is keep this program running and enjoy sending files to your computer through your bot instantly!")
     write_token = input("Insert token: ")
     ff = open(token_filename,"w")
